@@ -2,7 +2,7 @@
   "name": "deployment",
   "version": "1.0.0",
   "engines": {
-    "node": "v19.7.0"
+    "node": "18.0.0"
   },
   "description": "",
   "main": "server.js",
